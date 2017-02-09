@@ -1,13 +1,5 @@
 # React Lazy Imports helper
 
-<!-- MarkdownTOC -->
-
-- Abstract
-- Installation
-- Examples
-
-<!-- /MarkdownTOC -->
-
 ## Abstract
 
 This tiny library made to support `System.import` and `require.insure` operations in ReactJS based applications with Webpack bundler involved. 
