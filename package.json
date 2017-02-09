@@ -1,6 +1,6 @@
 {
   "name": "react-lazy-imports",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A dynamic bundles splliting helper for react/webpack applications.",
   "main": "index.js",
   "scripts": {
