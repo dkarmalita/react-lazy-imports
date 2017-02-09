@@ -1,0 +1,1 @@
+A dynamic bundles splliting helper for react/webpack applications.

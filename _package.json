@@ -1,0 +1,27 @@
+{
+  "name": "react-lazy-imports",
+  "version": "1.0.0",
+  "description": "A tiny library to support dynamic bundles splitting in ReactJS based applications wit Webpack involved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "tags": [
+    "react",
+    "router",
+    "webpack"
+  ],
+  "keywords": [
+    "react",
+    "router",
+    "webpack"
+  ],
+  "maintainers": [
+    {
+      "name": "Dmytro Karmalita",
+      "email": "altmine@gmail.com"
+    }
+  ],
+  "author": "Dmytro Karmalita",
+  "license": "MIT"
+}
