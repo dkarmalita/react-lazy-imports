@@ -1,5 +1,7 @@
 # React Lazy Imports helper
 
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/react-lazy-imports)
+
 ## Abstract
 
 This tiny library made to support `System.import` and `require.insure` operations in ReactJS based applications with Webpack bundler involved. 
