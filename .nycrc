@@ -1,0 +1,8 @@
+   {
+      "reporter": ["text", "text-summary", "lcov", "html"],
+      "include": ["dev/**/*.*"],
+      "lines": 99,
+      "statements": 99,
+      "functions": 99,
+      "check-coverage": true
+    }

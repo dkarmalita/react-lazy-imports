@@ -6,7 +6,9 @@
   "scripts": {
     "build": "babel dev --out-dir dist",
     "lint": "eslint src tests --fix --ignore-pattern .gitignore",
-    "test": "mocha --compilers js:babel-register tests"
+    "test": "mocha --compilers js:babel-register tests",
+    "test:coverage": "nyc npm run test",
+    "codecov": "codecov"
   },
   "pre-commit": [
     "lint",
@@ -50,8 +52,10 @@
     "babel-preset-babili": "0.0.11",
     "babel-preset-latest": "6.22.0",
     "babel-register": "6.22.0",
+    "codecov": "1.0.1",
     "eslint": "3.15.0",
     "mocha": "3.2.0",
+    "nyc": "10.1.2",
     "pre-commit": "1.2.2"
   }
 }
