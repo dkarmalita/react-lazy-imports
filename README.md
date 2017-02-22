@@ -1,9 +1,7 @@
 # React Lazy Imports helper
 
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/react-lazy-imports)
-
 [![Build Status](https://travis-ci.org/dkarmalita/react-lazy-imports.svg?branch=master)](https://travis-ci.org/dkarmalita/react-lazy-imports)
-
 [![codecov](https://codecov.io/gh/dkarmalita/react-lazy-imports/branch/master/graph/badge.svg)](https://codecov.io/gh/dkarmalita/react-lazy-imports)
 
 ## Abstract
